@@ -1,3 +1,3 @@
-// Copyright 2020 Your Name <your_email>
+// Copyright 2020 Shatskov12 <Qweser2016@mail.ru>
 
-#include <header.hpp>
+#include <smart_pointer.hpp>
